@@ -11,7 +11,7 @@
 <h3 align="center"> 🏅 Profile </h3>
 <p align="center"> <b>Spark&Associates</b> Backend Developer (2021.02 ~ )</p> 
 <p align="center"> Samsung SW Youth Academy (2020.01 - 2020.12) </p>
-<p align="center"> KFQ machine learning (2019.06 - 2020.11) </p>
+<p align="center"> KFQ machine learning process (2019.06 - 2020.11) </p>
 <br/>
 
 <h3 align="center">⚒ Tech Stack ⚒</h3>
