@@ -18,6 +18,7 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache Kafka-#231F20?style=flat-square&logo=Apache Kafka&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=Docker&logoColor=white"/>
 </p>
